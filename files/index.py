@@ -1,0 +1,3 @@
+from configRuntime import *
+
+StartTodoApp()
